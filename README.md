@@ -4,7 +4,7 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://ds1mbp5720.tistory.com/)        
 
 ### 🎓education   
-세종대학교 디지털콘텐츠학과(소프트웨어학과) 2016.03 ~ 2020.02       
+세종대학교 디지털콘텐츠학과(소프트웨어학과) 
         
 ### tech skill  
 <img src="https://img.shields.io/badge/Kotlin-3776AB?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF">
